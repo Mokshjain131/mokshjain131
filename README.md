@@ -1,8 +1,11 @@
+## Hi, I'm Moksh
+I have explored many areas of technology, from frontend development to backend systems and server-side technologies, while working with different programming languages. I am now focusing on the exciting field of **Artificial Intelligence and Machine Learning**.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mokshjain131/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mokshjain131/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/mokshjain131/)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ### 🌐 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -48,7 +51,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mokshjain131&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mokshjain131&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mokshjain131&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
